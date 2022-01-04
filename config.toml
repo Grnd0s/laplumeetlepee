@@ -1,4 +1,4 @@
-baseURL = 'http://grnd0s.github.io/laplumeetlepee/'
+baseURL = 'https://grnd0s.github.io/laplumeetlepee/'
 languageCode = 'en-us'
 title = "La Plume et l'Épée"
 theme = "gruvhugo"
