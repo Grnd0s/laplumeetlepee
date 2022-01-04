@@ -32,10 +32,14 @@
     <link rel="icon" type="image/svg" href='{{ .Site.Params.main.icon | absURL }}'/>
     <meta name="author" content='{{ .Site.Params.main.name }}'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap" rel="stylesheet"> 
     {{hugo.Generator}}
     {{ $style := resources.Get "/sass/main.scss" | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}" type="text/css" media="screen" >
 
+    
     {{ range .Site.Params.style.custom_css -}}
     <link rel="stylesheet" href="{{ . | absURL }}">
     {{- end }}
