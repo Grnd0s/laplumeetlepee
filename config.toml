@@ -1,3 +1,118 @@
 baseURL = 'http://example.org/'
-languageCode = 'fr'
-title = "La Plume et l'Epée"
+languageCode = 'en-us'
+title = "La Plume et l'Épée"
+theme = "gruvhugo"
+paginate = "10"
+
+defaultExtension= "html"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+
+defaultContentLanguage = 'en'
+
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    weight = 2
+  [languages.fr]
+    contentDir = 'content/fr'
+    languageName = 'Français'
+    weight = 1
+
+[params.main]
+  enabled = true
+  lang = 'fr'
+  enableKatex = true
+  metaKeywords = "plume, epee, france, francais, ecrit, rime, la plume et l'epee"
+  headerTitle = "La Plume et l'Épée"
+  copyright = "© 2022 La Plume et l'Épée.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Tous droits réservés</a>."
+  name = "grnd0s"
+  img = "img/logo.png"
+  img_title = "La Plume et l'Épée"
+  icon = "img/logo.png"
+  quote = "Seule la Plume et l'Épée assure un avenir."
+  description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam. Quis risus sed vulputate odio ut. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Bibendum at varius vel pharetra vel turpis. Semper viverra nam libero justo laoreet sit amet cursus. Mauris a diam maecenas sed enim ut sem."
+  licenseUrl = ""
+
+  [params.style]
+  # add path to custom CSS files here
+  custom_css = []
+  # add path to custom SCSS files here
+  custom_scss = []
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "À propos"
+    url        = "about"
+
+  [[menu.main]]
+    identifier = "notes"
+    name       = "Notes"
+    url        = "fr/notes/"
+
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.asciidocExt]
+    backend = "html5"
+    docType = "article"
+    extensions = []
+    failureLevel = "fatal"
+    noHeaderOrFooter = true
+    safeMode = "unsafe"
+    sectionNumbers = false
+    trace = false
+    verbose = true
+    workingFolderCurrent = false
+    [markup.asciidocExt.attributes]
+  [markup.blackFriday]
+    angledQuotes = false
+    footnoteAnchorPrefix = ""
+    footnoteReturnLinkContents = ""
+    fractions = true
+    hrefTargetBlank = false
+    latexDashes = true
+    nofollowLinks = false
+    noreferrerLinks = false
+    plainIDAnchors = true
+    skipHTML = false
+    smartDashes = true
+    smartypants = true
+    smartypantsQuotesNBSP = false
+    taskLists = true
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
