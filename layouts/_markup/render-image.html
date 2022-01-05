@@ -1,3 +1,4 @@
-<p class="md__image" align="center">
+<p class="md__image">
+  <img src="{{ .Destination | safeURL }}" width="350px" height="350px" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
   <img src="{{ .Destination | safeURL }}" width="350px" height="350px" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
 </p>
