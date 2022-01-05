@@ -59,10 +59,10 @@ Le chemin d'une noblesse retrouvé."""
   custom_scss = []
 
 [menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "À propos"
-    url        = "about"
+  #[[menu.main]]
+  #  identifier = "about"
+  #  name       = "À propos"
+  #  url        = "about"
 
   [[menu.main]]
     identifier = "notes"
