@@ -35,21 +35,21 @@ defaultContentLanguage = 'en'
   img_title = "La Plume et l'Épée"
   icon = "img/logo.png"
   quote = "Seule la Plume et l'Épée assure un avenir."
-  description= "Topaze sur Diamant, Foi et Science,<br>
-Force et Modestie en sont l'essence.<br>
-Un alliage précis qui donne du sens.<br>
-Saphir et Rubis affiche leur prédominance.<br>
-Tout paradoxe peut être concilié.<br>
-La plume et l'épée sont de même nature.<br>
-Des armes de l'esprit pour atteindre<br>
-Bien des vertus que beaucoup ont oubliées.<br>
-Pris d'affliction, on y entrevoit la pureté.<br>
-Il faut du courage, une hardiesse éprouvé.<br>
-Dans l'intrépidité, sachez garder la sérénité.<br>
-Une loyauté sans faille que nul n'égale<br>
-Un défaut de constance, un lièvre et son élégance.<br>
-Voilà la grandeur et la beauté.<br>
-Le chemin d'une noblesse retrouvé."
+  description= """Topaze sur Diamant, Foi et Science,\n
+Force et Modestie en sont l'essence.\n
+Un alliage précis qui donne du sens.\n
+Saphir et Rubis affiche leur prédominance.\n
+Tout paradoxe peut être concilié.\n
+La plume et l'épée sont de même nature.\n
+Des armes de l'esprit pour atteindre\n
+Bien des vertus que beaucoup ont oubliées.\n
+Pris d'affliction, on y entrevoit la pureté.\n
+Il faut du courage, une hardiesse éprouvé.\n
+Dans l'intrépidité, sachez garder la sérénité.\n
+Une loyauté sans faille que nul n'égale\n
+Un défaut de constance, un lièvre et son élégance.\n
+Voilà la grandeur et la beauté.\n
+Le chemin d'une noblesse retrouvé."""
   licenseUrl = ""
 
   [params.style]
