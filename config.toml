@@ -115,7 +115,7 @@ Le chemin d'une noblesse retrouvé."""
     [markup.goldmark.renderer]
       hardWraps = false
       unsafe = false
-      xhtml = false
+      xhtml = true
   [markup.highlight]
     codeFences = true
     guessSyntax = false
