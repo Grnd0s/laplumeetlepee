@@ -19,5 +19,5 @@ Dans la Sainte Guerre séparer le mal du bien.
 Une détermination flamboyante tranche l'obscurité de l'ignorance.  
 Arme du Noble, Âme scintillante  
 D'une éloquence Joyeuse,  
-Car la langue comme l'Épée a deux tranchants. 
+Car la langue comme l'Épée a deux tranchants.  
 Cerné par une dualité que nul ne peut échapper.  
