@@ -5,7 +5,7 @@ description: "La Plume"
 draft: false
 ---
 
-![La Plume](https://i.ibb.co/PQhhR3h/Maier-BNF-Gravure-Atalante-Fugitive-16-mini.jpg =350x350)
+![LaPlume](https://i.ibb.co/PQhhR3h/Maier-BNF-Gravure-Atalante-Fugitive-16-mini.jpg "La Plume")
 
 # La Plume
 
