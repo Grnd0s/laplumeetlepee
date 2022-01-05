@@ -5,6 +5,8 @@ description: "La Plume et l'Épée"
 draft: false
 ---
 
+![LaPlumeEtlEpee](https://i.ibb.co/SXFmqpf/In-Shot-20220103-082303816.jpg "La Plume et l'Épée")
+
 # La Plume et l'Épée
 
 Topaze sur Diamant, Foi et Science,  
@@ -18,7 +20,7 @@ Bien des vertus que beaucoup ont oubliées.
 Pris d'affliction, on y entrevoit la pureté.  
 Il faut du courage, une hardiesse éprouvé.  
 Dans l'intrépidité, sachez garder la sérénité.  
-Une loyauté sans faille que nul n'égale  
+Une loyauté sans faille que nul n'égale.  
 Un défaut de constance, un lièvre et son élégance.  
 Voilà la grandeur et la beauté.  
 Le chemin d'une noblesse retrouvé.  
