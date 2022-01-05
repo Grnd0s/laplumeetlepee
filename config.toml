@@ -1,4 +1,4 @@
-baseURL = 'https://grnd0s.github.io/laplumeetlepee/'
+baseURL = 'https://laplumeetlepee.fr'
 languageCode = 'en-us'
 title = "La Plume et l'Épée"
 theme = "gruvhugo"
@@ -35,7 +35,21 @@ defaultContentLanguage = 'en'
   img_title = "La Plume et l'Épée"
   icon = "img/logo.png"
   quote = "Seule la Plume et l'Épée assure un avenir."
-  description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam. Quis risus sed vulputate odio ut. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Bibendum at varius vel pharetra vel turpis. Semper viverra nam libero justo laoreet sit amet cursus. Mauris a diam maecenas sed enim ut sem."
+  description= "Topaze sur Diamant, Foi et Science,<br>
+Force et Modestie en sont l'essence.<br>
+Un alliage précis qui donne du sens.<br>
+Saphir et Rubis affiche leur prédominance.<br>
+Tout paradoxe peut être concilié.<br>
+La plume et l'épée sont de même nature.<br>
+Des armes de l'esprit pour atteindre<br>
+Bien des vertus que beaucoup ont oubliées.<br>
+Pris d'affliction, on y entrevoit la pureté.<br>
+Il faut du courage, une hardiesse éprouvé.<br>
+Dans l'intrépidité, sachez garder la sérénité.<br>
+Une loyauté sans faille que nul n'égale<br>
+Un défaut de constance, un lièvre et son élégance.<br>
+Voilà la grandeur et la beauté.<br>
+Le chemin d'une noblesse retrouvé."
   licenseUrl = ""
 
   [params.style]
