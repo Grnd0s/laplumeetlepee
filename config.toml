@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = "La Plume et l'Épée"
 theme = "gruvhugo"
 paginate = "10"
-
+googleAnalytics = "G-YQ1JM6LQGE"
 defaultExtension= "html"
 
 [taxonomies]
