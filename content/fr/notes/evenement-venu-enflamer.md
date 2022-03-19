@@ -9,7 +9,7 @@ draft: false
 
 # Événement Venu Enflammer
 
-Tout va très vite et je m'y étais résolu  
+Tout va très vite et je m'y étais résolu.  
 À passer à autre chose ce qui n'est plus  
 Hanté sont mes rêves, la chute d'un archange.  
   
@@ -25,11 +25,11 @@ Toutes mes prières se sont réalisées.
 Enfin presque, un dernier domaine à conquérir  
 Qui me semble indomptable, presque inaccessible.  
 J'étais assis face à toi le cœur sur la table.  
-En pleine escalade, tout paru surmontable  
+En pleine escalade, tout paru surmontable.  
   
 Arrivé en haut de cette belle montagne  
-La précipitation, chute inévitable  
-Pourquoi si jeune je ne pense qu'à périr  
+La précipitation, chute inévitable.  
+Pourquoi si jeune, je ne pense qu'à périr  
 Poussé dans le précipice, j'était pas prêt.  
   
 Il est difficile d'esquiver un missile.  
@@ -37,10 +37,10 @@ J'aurai dû l'être, bien faire n'a pas d'estime
 Encore étourdis par le passage de l'ange  
 Peut-être que j'aurai dû perdre patience  
   
-Mon esprit flamboyant voulu rester prudent  
-Observer ce feu, prêter allégeance au temps  
-Un amour irrationnel et dévorant  
-Paralyser par cet enfant si hésitant  
+Mon esprit flamboyant voulu rester prudent.  
+Observer ce feu, prêter allégeance au temps.  
+Un amour irrationnel et dévorant,  
+Paralysé par cet enfant si hésitant.  
   
 >La flamme, ce dragon qui tout dévore, brûle  
 >D’altérer la beauté charmante de la vierge.  
