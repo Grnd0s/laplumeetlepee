@@ -18,6 +18,7 @@ Venu éblouir les ténèbres,
 Arracher la lumière obscure.  
 Se déroule, pour que perdure  
 Sa noirceur criant d'excellence  
+  
 Aucun des serpents n'est fébrile.  
 Digne futur en résonnance  
 Sur une terre bien fertile,  
