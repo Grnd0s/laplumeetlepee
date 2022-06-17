@@ -33,3 +33,7 @@ J'aimerais revenir en arrière.
 Donc je crie dans le vide.  
 L'écho de ce désert aride  
 Les vagues du vent sur le sable.  
+
+>Je ne savais pas que la douleur  
+>contient d'étranges labyrinthes,  
+>où je n'avais pas fini de marcher.  
