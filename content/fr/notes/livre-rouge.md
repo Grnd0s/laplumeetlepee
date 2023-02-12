@@ -5,7 +5,7 @@ description: "Livre Rouge I"
 draft: false
 ---
 
-![LivreRougeI](https://i.ibb.co/SXFmqpf/In-Shot-20220103-082303816.jpg "Livre Rouge I")
+![LivreRougeI](https://i.ibb.co/0sx7vgt/page-livre-rouge-page-105.jpg "Livre Rouge I")
 
 # Livre Rouge I
 
