@@ -1,6 +1,6 @@
 ---
 title: "Méditation I"
-date: 2023-02-12T22:23:23+02:00
+date: 2023-01-12T22:23:23+02:00
 description: "Méditation I"
 draft: false
 ---
