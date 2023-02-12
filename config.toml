@@ -34,7 +34,7 @@ defaultContentLanguage = 'en'
   img = "img/logo.png"
   img_title = "La Plume et l'Épée"
   icon = "img/logo.png"
-  quote = "Seule la Plume et l'Épée assure un avenir."
+  quote = "Seule la Plume et l'Épée assurent un avenir."
   description= """Topaze sur Diamant, Foi et Science,\n
 Force et Modestie en sont l'essence.\n
 Un alliage précis qui donne du sens.\n
